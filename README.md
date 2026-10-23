@@ -1,1 +1,1 @@
-"# Color-Checkerboard-Project-" 
+"# Color-Checkerboard-Project" 
